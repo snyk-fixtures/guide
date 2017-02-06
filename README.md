@@ -2,14 +2,14 @@
 
 ## Fixture Repository Naming
 
-Please use the following naming convention:
+Please use one of the following naming conventions:
 
-`language-type-descriptive-name`
-`packageManager-type-descriptive-name`
+* `language-type-descriptive-name`
+* `packageManager-type-descriptive-name`
 
 Examples:
 
-`ruby-gem-simple-vuln`
-`ruby-app-rails3`
-`js-goof`
-`maven-app-rails3`
+* `ruby-gem-simple-vuln`
+* `ruby-app-rails3`
+* `js-goof`
+* `maven-app-rails3`
