@@ -2,7 +2,7 @@
 
 - **Test fixtures only**
 - For trouble-shooting and experiements, please just fork into your own account
-- For any valid (test fixture) forks, please rename as below
+- For any valid (test fixture) forks, please **rename as below**
 - Repos that do not conform to the naming scheme will be **removed**
 - Repos that are not mentioned in tests will be **removed**
 
