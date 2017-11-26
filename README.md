@@ -18,4 +18,4 @@ Examples:
 * `ruby-gem-simple-vuln`
 * `ruby-app-rails3`
 * `js-goof`
-* `maven-app-rails3`
+* `maven-app-struts`
